@@ -1,0 +1,15 @@
+C:\Users\Zaca\solucao1\ConsoleApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zaca\solucao1\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Users\Zaca\solucao1\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Zaca\solucao1\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Zaca\solucao1\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+C:\Prompt11\PROMPT11\uc01\repos\solucao1\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Prompt11\PROMPT11\uc01\repos\solucao1\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+C:\Prompt11\PROMPT11\uc01\repos\solucao1\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Prompt11\PROMPT11\uc01\repos\solucao1\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Prompt11\PROMPT11\uc01\repos\solucao1\ConsoleApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-01-VMEssentials.lzacarias\src\solucao1\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-01-VMEssentials.lzacarias\src\solucao1\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-01-VMEssentials.lzacarias\src\solucao1\ConsoleApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-01-VMEssentials.lzacarias\src\solucao1\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-01-VMEssentials.lzacarias\src\solucao1\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb

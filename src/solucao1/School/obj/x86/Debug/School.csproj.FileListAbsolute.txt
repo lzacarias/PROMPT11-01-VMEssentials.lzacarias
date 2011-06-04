@@ -1,0 +1,10 @@
+C:\Prompt11\PROMPT11\uc01\repos\solucao1\School\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Prompt11\PROMPT11\uc01\repos\solucao1\School\bin\Debug\School.exe
+C:\Prompt11\PROMPT11\uc01\repos\solucao1\School\bin\Debug\School.pdb
+C:\Prompt11\PROMPT11\uc01\repos\solucao1\School\obj\x86\Debug\School.exe
+C:\Prompt11\PROMPT11\uc01\repos\solucao1\School\obj\x86\Debug\School.pdb
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-01-VMEssentials.lzacarias\src\solucao1\School\bin\Debug\School.exe
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-01-VMEssentials.lzacarias\src\solucao1\School\bin\Debug\School.pdb
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-01-VMEssentials.lzacarias\src\solucao1\School\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-01-VMEssentials.lzacarias\src\solucao1\School\obj\x86\Debug\School.exe
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-01-VMEssentials.lzacarias\src\solucao1\School\obj\x86\Debug\School.pdb

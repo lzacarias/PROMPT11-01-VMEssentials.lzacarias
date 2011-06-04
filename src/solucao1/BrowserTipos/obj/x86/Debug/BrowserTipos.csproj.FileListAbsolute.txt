@@ -1,0 +1,5 @@
+C:\Prompt11\PROMPT11\uc01\repos\solucao1\BrowserTipos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Prompt11\PROMPT11\uc01\repos\solucao1\BrowserTipos\bin\Debug\BrowserTipos.exe
+C:\Prompt11\PROMPT11\uc01\repos\solucao1\BrowserTipos\bin\Debug\BrowserTipos.pdb
+C:\Prompt11\PROMPT11\uc01\repos\solucao1\BrowserTipos\obj\x86\Debug\BrowserTipos.exe
+C:\Prompt11\PROMPT11\uc01\repos\solucao1\BrowserTipos\obj\x86\Debug\BrowserTipos.pdb

@@ -133,6 +133,21 @@
     IL_0020:  ret
   } // end of method Ponto::ToString
 
+  .method public hidebysig instance int32 
+          CompareTo(class Sessao1.Ponto p1) cil managed
+  {
+
+    .maxstack  2	
+	ldarg.0
+	ldarg.1
+	call       instance int32 Sessao1.Ponto::Distance(class Sessao1.Ponto)
+	ret	
+  } // end of method Ponto::CompareTo
+
+  
+  
+  
+  
 } // end of class Sessao1.Ponto
 
 
